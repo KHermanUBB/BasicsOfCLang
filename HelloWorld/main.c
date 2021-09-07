@@ -1,6 +1,10 @@
+/*
+Author: K.Herman
+kherman@ubiobio.cl
+*/
 #include<stdio.h>
 
 void main(void){
 
-    printf("Hello Wrold\n");
+    printf("Hello World\n");
 }
