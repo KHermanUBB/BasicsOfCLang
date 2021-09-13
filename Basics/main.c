@@ -3,10 +3,15 @@
 */
 #include <stdio.h>
 
+typedef unsigned short uint16_t; 
+typedef unsigned short u16; 
+
 int main(void)
 {
     int a, b;
-    short x,y,z;
+    u16 x,y,z;
+    u16 temperatura;
+
     float real, real2;
     char s;
     
